@@ -1,7 +1,7 @@
 
 
 
-# Spotify Million Playlists (RecSys 2018) Challenge Submission 
+# Spotify Million Playlists
 
 This project is a song recommendation system implemented using Spark MLib Alternating Squares Collaborative Filtering Algorithm trained on 1 million playlists open-sourced by Spotify.
 
